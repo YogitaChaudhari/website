@@ -1,0 +1,36 @@
+nav .grid_3{
+	text-align:center;
+	text-transform:uppercase;
+	background-color:#00206B;
+	color:#ffffff;
+	padding:10px 0;
+	cursor:pointer;
+}
+
+nav .grid_3:hover{
+	background-color:#FF9001;
+}
+
+#banner{
+	margin-top:10px;
+}
+
+#courses h3{
+	text-align:center;
+	text-transform:uppercase;
+	color:#00206B;
+	border-bottom:3px solid #FF9001;
+	padding-bottom:5px;
+}
+
+footer{
+	text-align:center;
+	padding:10px 0;
+	background-color:#FF9001;
+	color:#ffffff;
+}
+
+footer ul{
+	padding:0;
+	list-style-type:none;
+}
